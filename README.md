@@ -1,2 +1,6 @@
 # CC-20-21-Exercises
-Exercises of the subject Cloud Computing (UGR)
+Repositorio de ejercicios de autoevaluacion de Cloud Computing. 
+
+Master de Ingeniería Informática UGR.
+
+[Ejercicios tema 1] ()
